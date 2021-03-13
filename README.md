@@ -20,6 +20,11 @@ Repositório de aulas ministradas, notebooks, projetos de aprendizagem e prátic
 [Scraping do StackOverflow - Perguntas sobre Python](https://github.com/ronissonlucas/data_science/blob/main/Scraping/Scraping_stack_overflow.ipynb)
 [Dados - Scraping StackOverflow](https://github.com/ronissonlucas/data_science/blob/main/Scraping/python_stackoverflow.csv)
 
+
+## Aulas Pandas
+[Pandas](https://github.com/ronissonlucas/data_science/blob/main/Aula_Pandas/Aula_Pandas1.ipynb)
+
 ## CRUD SQLite3
+[CRUD SQLite3 1 ](https://github.com/ronissonlucas/data_science/tree/main/CRUD_operations/CRUD_with_SQLite3)
 
 ## CRUD PostgreSQL
